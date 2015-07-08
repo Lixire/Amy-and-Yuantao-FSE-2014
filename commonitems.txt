@@ -1,0 +1,45 @@
+# of weapons 
+name/item type/base damage /range(melee = 1)/strength required/int required/# of effects/for each effect name
+# of worns
+name/item type/armour slot /armour value    /strength required/int required/# of effects/for each effect name
+# of consumables
+name/item type/health      /mana            /strength         /endurence   /intellect   /dexterity
+
+1-head,2-body,3-feet,4-other
+
+9
+Stick/weapon/5/1/1/0/0
+Big Stick/weapon/15/1/5/0/1/crushing
+Sword/weapon/20/1/5/0/0
+Longsword/weapon/30/1/10/0/0
+Claymore/weapon/100/1/50/0/0
+Dagger/weapon/10/1/1/1/1/crits
+Shortbow/weapon/15/5/1/1/0
+Crossbow/weapon/30/10/1/3/0
+Longbow/weapon/50/15/10/1/0
+
+Fancy Hat/worn/1/1/0/0/0
+Full Helm/worn/1/2/5/0/0
+Hunting Hat/worn/1/1/0/0/0
+Wizard Hat/worn/1/1/0/1/0
+Iron Helm/worn/1/2/1/0/0
+Chain Mail/worn/2/5/5/0/0
+Plate Armour/worn/2/10/10/0/0
+Boots/worn/3/1/0/0/0
+Necklace/worn/4/0/0/0/0
+Pet Rock/worn/4/0/0/0/1/Lucky
+
+8
+Lesser Health Potion/consumable/50/0/0/0/0/0
+Health Potion/consumable/200/0/0/0/0/0
+Greater Health Potion/consumable/800/0/0/0/0/0
+Lesser Mana Potion/consumable/0/50/0/0/0/0
+Mana Potion/consumable/0/100/0/0/0/0
+Greater Mana Potion/consumable/0/400/0/0/0/0
+Steriods/consumable/0/0/1/1/-1/0
+Book/consumable/0/0/0/0/1/0
+War and Peace/consumable/0/0/0/0/3/0
+Paradise Lost/consumable/0/0/0/0/3/0
+Hop on Pop/consumable/0/0/0/0/3/0
+Twilight/consumable/0/0/0/0/-1/0
+

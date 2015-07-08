@@ -1,0 +1,13 @@
+9
+Lesser-Health-Potion/consumable/25/0/0/0/0/0/HPpotion1/Heals#25#HP
+Health-Potion/consumable/50/0/0/0/0/0/HPpotion1/Heals#50#HP
+Greater-Health-Potion/consumable/200/0/0/0/0/0/HPpotion1/Heals#200#HP
+Lesser-Mana-Potion/consumable/0/20/0/0/0/0/MPpotion1/Restores#20#MP
+Mana-Potion/consumable/0/50/0/0/0/0/MPpotion1/Restores#50#MP
+Greater-Mana-Potion/consumable/0/100/0/0/0/0/MPpotion1/Restores#100#MP
+Steriods/consumable/0/0/1/1/-1/0/rock1/STR+1#VIT+1#INT-1
+Hop-on-Pop/consumable/0/0/0/0/3/0/book1/INT+3
+Twilight/consumable/0/0/0/0/-1/0/book1/INT-1
+
+# of consumables
+name/item type/health      /mana            /strength         /vit  /intellect   /dexterity

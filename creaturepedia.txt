@@ -1,0 +1,22 @@
+18
+ratman-3/1/0/1/20/1/4
+ratsoldier-5/2/1/5/10/3/10
+goblinspear-20/3/1/10/5/8/160
+goblinsword-10/5/0/10/5/30/160
+goblinrider-50/5/2/50/50/60/100
+goblinrider2-30/10/0/200/1/100/120
+goblinhunter-20/8/3/150/4/50/150
+goblinbrute-60/10/5/150/1/130/150
+goblinwizard-40/20/0/200/1/80/140
+golem0-70/25/1/250/10/150/400
+golem1-60/20/2/250/10/150/400
+golem2-80/15/3/250/10/150/400
+golem3-60/25/0/250/10/150/400
+golem4-150/20/5/400/5/150/400
+firedemon-100/20/10/10000/1/399/99999
+ember-300/50/10/1000000000/1/500/99999999
+zombieguard-30/10/5/20/0/0/0
+treeent-50/3/5/500/0/0/0
+
+name-maxhp/baseatk/basedef/xp reward/spawnchance/start floor/end floor
+	1	2	3	4	5		6	7

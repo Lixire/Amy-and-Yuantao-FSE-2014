@@ -1,0 +1,4 @@
+104
+50/7388/64/43/12/1/0/152/22/2
+Mana-Potion/consumable/0/50/0/0/0/0/MPpotion1/Restores#50#MP
+Mana-Potion/consumable/0/50/0/0/0/0/MPpotion1/Restores#50#MP
